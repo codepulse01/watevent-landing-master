@@ -1,0 +1,159 @@
+body {
+    text-align: center;
+}
+.columns {
+    white-space: nowrap;
+    
+}
+.column {
+    white-space: normal;
+    width: 100%;
+    padding: 85px;
+    display: flex;
+    vertical-align: top;
+    justify-content: center;
+}
+.column.info {
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 0;
+    
+}
+
+/* .column.info2 {
+    background: lightGrey;
+    border-radius: 6px;
+       
+} */
+.continue-btn {
+    background-color: white; /* White background like Product Hunt */
+    color: #4A90E2; /* Blue text to keep it consistent with Watevent's theme */
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid #4A90E2; /* Blue border to match Watevent's color scheme */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block; /* Ensures the button maintains a button-like appearance */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.continue-btn:hover {
+    background-color: #4A90E2; /* Switch to blue background on hover */
+    color: white; /* White text on hover */
+}
+
+.column.previews {
+    flex-direction: row;
+    align-items: center;
+    overflow: hidden;
+}
+.column.previews .preview {
+    height: 500px;
+    max-width: 260px;
+    margin: 10px;
+    /* animation: up 0.5s ease-out; */
+}
+.column.previews .preview img.frame {
+    position: relative;
+    top: 0;
+    height: 100%;
+    /* width: 330px */
+    
+}
+.column.previews .preview img.screenshot {
+    position: relative;
+    z-index: -1;
+}
+.column.previews .preview.iphone_x img.screenshot {
+    height: 470px;
+    top: -489px;
+    margin-left: 16px;    
+}
+.column.previews .preview.pixel img.screenshot {
+    width: 215px;
+    top: -470px;
+    margin-left: 8px;
+}
+
+@keyframes up {
+    0% { transform: translateY(100vh); }
+    40% { transform: translateY(100vh); }
+    100% { transform: translateY(0); }
+}
+
+.logo {
+    width: 150px;
+    max-width: 90vw;
+    animation: rotation 15s linear infinite;
+    margin-bottom: 15px;
+    margin-top: 50px;
+    animation: over 0.5s ease-out;
+
+}
+.logo2 {
+    /* width: 300px; */
+    max-width: 90vw;
+    margin-bottom: 15px;
+    animation: over 0.5s ease-out;
+
+}
+
+
+@keyframes over {
+    from { transform: translateX(-100vw); }
+    to   { transform: translateX(0); }
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.download-buttons {
+    margin-top: 15px;
+}
+.download-buttons .download-button {
+    text-decoration: none;
+}
+.download-buttons .download-button img {
+    width: 200px;
+}
+h1, .download-buttons {
+    animation: 1s fade;
+}
+h5, .download-buttons {
+    animation: 1s fade;
+}
+h3, .download-buttons {
+    animation: 1s fade;
+}
+h4, .download-buttons {
+    animation: 1s fade;
+}
+
+
+
+
+
+@keyframes fade {
+    0% { opacity: 0; }
+    60% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@media (min-width: 1100px) {
+    .column {
+        height: 100vh;
+        display: inline-flex;
+    }
+    .column.previews {
+        width: 45%;
+    }
+    .column.info {
+        width: 50%;
+    }
+}
+

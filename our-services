@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<!-- saved from url=(0020)https://SocialDistancer.io/ -->
+<html lang="en">
+
+<head>
+    <meta name='impact-site-verification' value='e68acefd-5d87-4c05-abc1-ef8003611eed'>
+    <meta charset="utf-8">
+    <title>Watevent - Our Services </title>
+    <meta name="theme-color" content="#7b1fa2">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Largest selection of Local Fun & Live Events">
+    <link rel="stylesheet" href="./files/style.css">
+    <link rel="stylesheet" href="./files/home.css">
+    <link rel="shortcut icon" href="./files/goose.png">
+    <!-- Twitter preview -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Watevent">
+    <meta name="twitter:description" content="Largest selection of Local Fun & Live Events">
+    <meta name="twitter:image" content="./files/goose.png">
+    <!-- Other platform preview -->
+    <meta property="og:url" content="https://info.watevent.com">
+    <meta property="og:title" content="Watevent">
+    <meta property="og:description" content="Largest selection of Local Fun & Live Events">
+    <meta property="og:image" content="./files/goose.png">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+
+
+    <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/venobox/venobox.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="files/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
+        <a href="#intro" class="scrollto"><img src="./files/goose-transparent.png" alt="" title=""></a>
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li class="menu-active"><a href="our-services.html">Our Services</a></li>
+          <li><a href="https://watevent.com">Categories</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+
+
+    <div class="columns"  style="">
+        <div class="column info">
+
+            <img class="logo" src="./files/goose-transparent.png" alt="logo">
+            <h1 class="increase">Watevent</h1>
+
+
+            <h1 style="color: white; text-align: center;">Largest selection of Local Fun & Live Events</h1></br>
+
+            <!-- <h2>Location/Topic based chat rooms!</h2></br> -->
+
+            <div class="download-buttons">
+                <a class="download-button"
+                    href="https://apps.apple.com/us/app/watevent-local-fun-events/id6475428219">
+                    <img src="./files/app_store.png" alt="Download on the App Store">
+                </a>
+                <a class="download-button"
+                    href="https://play.google.com/store/apps/details?id=com.ariwasch.watevent">
+                    <img src="./files/google_play.png" alt="Get it on Google Play">
+                </a>
+            </div>
+            <div class="download-buttons">
+                <a href="https://www.producthunt.com/posts/watevent?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-watevent" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=456192&theme=light" alt="Watevent - Largest&#0032;selection&#0032;of&#0032;Local&#0032;Fun&#0032;&#0038;&#0032;Live&#0032;Events | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+            </div><!-- Button HTML with inline styles -->
+            <div class="download-buttons">
+
+           <!-- <a href="https://watevent.com" class="continue-btn">Continue on Web</a>-->
+
+        </div><!-- Button HTML with inline styles -->
+
+        </div>
+        <div class="column previews">
+            <div class="preview iphone_x">
+                <img class="frame" src="./files/iphone_x.png">
+                <img class="screenshot" src="IMG_0295.jpeg">
+                <!-- <img class="frame" src="./files/phone-waterloo.png"> -->
+
+            </div>
+            <div class="preview pixel">
+                <img class="frame" src="./files/pixel.png">
+                <img class="screenshot" src="other-image.png">
+            </div>
+        </div>
+    </div>
+
+
+
+     <!--==========================
+      About Section Start
+    ============================-->
+    <main id="main" class="main-page" style="background-color: white">
+    <section id="speakers-details" class="wow fadeIn">
+      <div class="container">
+        <div class="section-header">
+          <h2>About Us - Watevent</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <img src="img/gallery/5.jpg" alt="Speaker 1" class="img-fluid">
+          </div>
+
+          <div class="col-md-6">
+            <div class="details">
+              <h3> Our Story </h3>
+              <p>Welcome to Watevent! I'm Ari Wasch, the founder of Watevent. After moving between various cities, I found it challenging to keep up with interesting events due to the multitude of websites and platforms available. This inspired me to create Watevent, a platform designed to streamline the event discovery process by bringing all local events into one convenient event listing app.</p><br>
+
+              <h3> What We Do </h3>
+              <p>Watevent is a free event listing website which uses advanced technology to aggregate local events across multiple cities, ensuring you never miss out on activities around you. We continuously compile event information from a wide range of city-related websites and social media platforms. Whether you’re interested in music, festivals, workshops, or community gatherings, Watevent has something for everyone. Our event website is completely free to use, making it accessible for all.</p>
+              
+            </div>
+          </div>
+          
+        </div>
+      </div>
+
+    </section>
+  </main>
+<!----- About Section End --->
+
+
+
+    <!--==========================
+      Mission Section Start 
+    ============================-->
+    <main id="main">
+    <section id="about" style="height: auto;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg">
+            <h2>Our Mission</h2>
+            <p> Our mission is to simplify the process of discovering local events, creating a seamless and engaging experience for our users. We aim to foster connections within communities by making it easier for people to find and participate in events that interest them through our event website and event listing app.</p>
+            <br>
+            <h4>Key Features</h4>
+            <ul>
+              <li>Extensive Selection of Local Events: Curated daily to bring you the best events in your area.</li>
+              <li>Advanced Filtering and Search: Easily find events that match your interests with our intuitive search and filter options.</li>
+              <li>User-Friendly Interface: Designed for effortless browsing and discovery.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+ <!--- Mission Section End---->
+
+
+  <!--==========================
+      Vission Section Start
+    ============================-->
+    <main id="main" class="main-page" style="background-color: white">
+    <section id="speakers-details" class="wow fadeIn">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="img/gallery/2.jpeg" alt="Our Vission" class="img-fluid" height="10%">
+          </div>
+
+          <div class="col-md-6">
+            <div class="details">
+              <h2> Our Vission </h2>
+              <p>We envision a world where discovering and participating in local events is effortless and enjoyable. As we expand, our goal is to reach more cities, helping more people connect with their communities and enrich their lives through engaging activities. This vision will be achieved through our user-friendly event website and our comprehensive event listing app.</p><br>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+  </main>
+<!----- Vission Section End --->   
+
+   
+
+
+    <!--==========================
+      Subscribe Section
+    ============================-->
+    <section id="subscribe">
+      <div class="container wow fadeInUp">
+        <div class="section-header">
+          <h2>Newsletter</h2>
+          <p>"Stay Connected: Your Weekly Dose of Insight and Inspiration!"</p>
+        </div>
+
+        <form method="POST" action="#">
+          <div class="form-row justify-content-center">
+            <div class="col-auto">
+              <input type="text" class="form-control" placeholder="Enter your Email">
+            </div>
+            <div class="col-auto">
+              <button type="submit">Subscribe</button>
+            </div>
+          </div>
+        </form>
+
+      </div>
+    </section>
+
+    
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 footer-info">
+            <img class="logo" src="./files/goose-transparent.png" alt="logo" style="height: 100px">
+            <h1>Watevent</h1>
+            <p>Largest selection of Local Fun & Live Events</p>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="fa fa-angle-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="about.html">About us</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://watevent.com">Categories</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="termsandconditions">Terms of service</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="privacypolicy">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+              A108 Adam Street <br>
+              New York, NY 535022<br>
+              United States <br>
+              <strong>Phone:</strong> +1 5589 55488 55<br>
+              <strong>Email:</strong> info@example.com<br>
+            </p>
+
+            <div class="social-links">
+              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="container">
+      <div class="copyright">
+        &copy;<strong>2024 Watevent</strong>.
+      </div>
+      <div class="credits">
+        <a href="termsandconditions">Terms and Conditions</a>
+        <a href="privacypolicy">Privacy Policy</a>
+        <a href="wateventapp@gmail.com">wateventapp@gmail.com</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/venobox/venobox.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+  <script type="text/javascript">
+    
+    function toggleMenu() {
+        const navLinks = document.querySelector('.nav-links');
+        navLinks.classList.toggle('show');
+    }
+    </script>
+
+
+   <!-- <footer>
+        <row>
+         <div
+                class="socializer a sr-32px sr-circle sr-shrink sr-font-lg sr-icon-white sr-bdr-sm sr-bdr-white sr-bg-none sr-pad">
+
+                <span class="sr-email"><a href="mailto: support@rambl.app" target="_blank" title="Email"><i
+                            class="fa fa-envelope"></i></a></span><span class="sr-tiktok"><a
+                        href="https://www.tiktok.com/@3.0e8" target="_blank" title="TikTok"><i
+                            class="fab fa-tiktok"></i></a></span><span class="sr-discord"><a
+                        href="https://discord.gg/QN8dwVNUMQ" target="_blank" title="Discord"><i
+                            class="fab fa-discord"></i></a></span><span class="sr-instagram"><a
+                        href="https://www.instagram.com/pogchat.app/" target="_blank" title="Instagram"><i
+                            class="fab fa-instagram"></i></a></span><span class="sr-youtube"><a
+                        href="https://www.youtube.com/channel/UC4WTFvppYzIdAf-ibIl-rDw/featured" target="_blank"
+                        title="Youtube"><i class="fab fa-youtube"></i></a></span>
+
+            </div> 
+            <p>© 2024 Watevent</a>. <a href="termsandconditions">Terms
+                    and Conditions</a>
+                <a href="privacypolicy">Privacy Policy</a>
+                <a href="wateventapp@gmail.com">wateventapp@gmail.com</a>
+            </p>
+        </row>
+    </footer>-->
+
+
+</body>
+</html>
+
